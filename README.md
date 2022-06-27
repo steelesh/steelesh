@@ -48,3 +48,8 @@
 <p float="left">
   <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github icon" title="Github"</img>&nbsp
   <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git icon" title="Git"</img>
+<h1>:chart_with_upwards_trend: GitHub Statistics</h1>
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=steelesh&count_private=true&show_icons=true&theme=dark&background=000000&border_color=FF7B19&icon_color=FF7B19&title_color=FF7B19">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steelesh&theme=dark&background=000000&border_color=FF7B19&icon_color=FF7B19&title_color=FF7B19" width="495px" height="195px">
+</p>
