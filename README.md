@@ -1,8 +1,9 @@
 <h5 align="center">:wave:  Hi there, my name is</h5>
-<h1 align="center">Steele Shreve<br>:technologist:</h1>
+<h1 align="center">Steele<br>:technologist:</h1>
 <h3 align="center">:mortar_board: 3rd year student pursuing a BS in IT at the University of Cincinnati</h3>  
 <h1>:bulb: About Me</h1>
 <p>I'm Steele, I am 21 years old from Cincinnati, OH. I am a student that loves to code and build projects. I have a passion for front-end web development and technologies. I want my future creative works and projects to leave a positive effect on people using the web. I enjoy learning new languages, algorithms, skills and frameworks to better my skills as a developer.</p>
+<h6>:open_file_folder: View my resume: <a href="Shreve_Steele.pdf">Shreve_Steele.pdf</a></h6>
 <h2>:books: I'm currently learning</h2>
 <li>Javascript</li>
 <h2>:seedling: I'm currently working on</h2>
@@ -35,4 +36,6 @@
 <p float="left">
   <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github icon" title="Github"</img>&nbsp
   <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git icon" title="Git"</img>
-<h1>Get in touch!</h1>
+<h1>Contact</h1>
+<h4><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin icon" title="LinkedIn" height="18px" width="18px">&nbsp <a href="https://www.linkedin.com/steelesh/">Connect with me</a></h4>
+<h4>:incoming_envelope: <a href="mailto:shrevesa@mail.uc.edu"> Send me an email</a></h4>
