@@ -24,31 +24,31 @@
 <h1>:star: Technical Skills</h1>
 <h4>Software</h4>
 <p float="left">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode icon" title="Microsoft Visual Studio Code"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=atom&theme=light" alt="atom icon" title="Atom"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=eclipse&theme=light" alt="eclipse icon" title="Eclipse"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=idea&theme=light" alt="idea icon" title="Intellij Idea"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=ps&theme=light" alt="photoshop icon" title="Adobe Photoshop"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma icon" title="Figma"/>&nbsp
-  <img src="images/office.png" height="48px" width="48px" alt="office icon" title="Microsoft Office"</img>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="vscode icon" title="Microsoft Visual Studio Code" width="40px" height="40px"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=atom&theme=light" alt="atom icon" title="Atom" width="40px" height="40px"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=eclipse&theme=light" alt="eclipse icon" title="Eclipse" width="40px" height="40px"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=idea&theme=light" alt="idea icon" title="Intellij Idea" width="40px" height="40px"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=ps&theme=light" alt="photoshop icon" title="Adobe Photoshop" width="40px" height="40px"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma icon" title="Figma" width="40px" height="40px"/>&nbsp
+  <img src="images/office.png" alt="office icon" title="Microsoft Office" width="40px" height="40px"</img>
 <h4>Programming Languages</h4>
 <p float="left">
-  <img src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript icon" title="Javascript"/>&nbsp
-  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="java icon" title="Java"/> 
+  <img src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript icon" title="Javascript" width="40px" height="40px"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="java icon" title="Java" width="40px" height="40px"/> 
 </p>
 <h4>Front-End Development</h4>
 <p float="left">
-  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html icon" title="HTML5"</img>&nbsp
-  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css icon" title="CSS3"</img>
+  <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html icon" title="HTML5" width="40px" height="40px"</img>&nbsp
+  <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css icon" title="CSS3" width="40px" height="40px"</img>
 </p>
 <h4>Database</h4>
 <p float="left">
-  <img src="images/mssql.png" height="48px" width="48px" alt="mssql icon" title="Microsoft SQL Server"</img>
+  <img src="images/mssql.png" height="40px" width="40px" alt="mssql icon" title="Microsoft SQL Server"</img>
 </p>
 <h4>Version Control</h4>
 <p float="left">
-  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github icon" title="Github"</img>&nbsp
-  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git icon" title="Git"</img>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github icon" title="Github" width="40px" height="40px"</img>&nbsp
+  <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git icon" title="Git" width="40px" height="40px"</img>
 <h1>:chart_with_upwards_trend: GitHub Statistics</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=steelesh&count_private=true&show_icons=true&theme=dark&background=000000&border_color=FF7B19&icon_color=FF7B19&title_color=FF7B19">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steelesh&theme=dark&background=000000&border_color=FF7B19&icon_color=FF7B19&title_color=FF7B19" width="495px">
