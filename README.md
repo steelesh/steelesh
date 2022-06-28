@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=steelesh&color=FF7B19"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF"></p>
 <h5 align="center">:wave:  Hi there, my name is</h5>
 <h1 align="center">Steele</h1>
 <h3 align="center">:mortar_board: 3rd year student pursuing a BS in IT at the University of Cincinnati</h3>  
@@ -50,5 +50,5 @@
   <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github icon" title="Github" width="40px" height="40px"</img>&nbsp
   <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git icon" title="Git" width="40px" height="40px"</img>
 <h1>:chart_with_upwards_trend: GitHub Statistics</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=steelesh&count_private=true&show_icons=true&theme=dark&background=000000&border_color=FF7B19&icon_color=FF7B19&title_color=FF7B19">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steelesh&theme=dark&background=000000&border_color=FF7B19&icon_color=FF7B19&title_color=FF7B19" width="495px">
+<img src="https://github-readme-stats.vercel.app/api?username=steelesh&count_private=true&show_icons=true&theme=dark&background=000000&border_color=7D12FF&icon_color=7D12FF&title_color=7D12FF">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steelesh&theme=dark&background=000000&border_color=7D12FF&icon_color=7D12FF&title_color=7D12FF" width="495px">
