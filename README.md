@@ -1,10 +1,9 @@
-![banner_gif-v2](https://user-images.githubusercontent.com/94927484/176144601-5fc91a76-2298-407a-9ac2-877f29483770.gif)
+![banner_gif-v3](https://user-images.githubusercontent.com/94927484/176231439-b211eb6b-b483-474d-92b1-01ccd55d3865.gif)
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF"></p>
-<h5 align="center">:wave:  Hi there, my name is</h5>
-<h1 align="center">Steele</h1>
-<h3 align="center">:mortar_board: 3rd year student pursuing a BS in IT at the University of Cincinnati</h3>  
+<h1 align="center">:wave:  Hi there, my name is<br>Steele</h1>
+<h3 align="center">:mortar_board: Undergraduate student pursuing a BS in IT at the University of Cincinnati</h3>  
 <h1>:bulb: About Me</h1>
 <p>I'm Steele, I am 21 years old from Cincinnati, OH. I am a student that loves to code and build projects. I have a passion for front-end web development and technologies. I want my future creative works and projects to leave a positive effect on people using the web. I enjoy learning new languages, algorithms, skills and frameworks to better my skills as a developer.</p>
 <details>
