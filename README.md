@@ -1,7 +1,12 @@
-![banner_gif-v3](https://user-images.githubusercontent.com/94927484/176231439-b211eb6b-b483-474d-92b1-01ccd55d3865.gif)
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF"></p>
+<p align="center" float="left">
+<img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF">
+<img src="https://img.shields.io/github/last-commit/steelesh/steelesh?color=7D12FF&logoColor=555555">
+</p>
+<p align="center" float="left">
+<img src="https://img.shields.io/github/forks/steelesh/steelesh?style=social">
+<img src="https://img.shields.io/github/followers/steelesh?style=social">
+</p>
+<img src="https://user-images.githubusercontent.com/94927484/176231439-b211eb6b-b483-474d-92b1-01ccd55d3865.gif">
 <h1 align="center">:wave:  Hi there, my name is<br>Steele</h1>
 <h3 align="center">:mortar_board: Undergraduate student pursuing a BS in IT at the University of Cincinnati</h3>  
 <h1>:bulb: About Me</h1>
