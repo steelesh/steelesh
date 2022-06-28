@@ -27,7 +27,7 @@
 <h2>:books: I'm currently learning</h2>
 <li>Javascript</li>
 <h2>:seedling: I'm currently working on</h2>
-<li><a href="https://www.udemy.com/course/50-projects-50-days/">50 projects 50 days course</a></li>
+<li><a href="https://www.udemy.com/course/50-projects-50-days/">50 projects 50 days</a></li>
 <h1>:star: Technical Skills</h1>
 <h4>Software</h4>
 <p float="left">
