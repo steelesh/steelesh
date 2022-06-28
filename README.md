@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=idea&theme=light" alt="idea icon" title="Intellij Idea" width="40px" height="40px"/>&nbsp
   <img src="https://skillicons.dev/icons?i=ps&theme=light" alt="photoshop icon" title="Adobe Photoshop" width="40px" height="40px"/>&nbsp
   <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma icon" title="Figma" width="40px" height="40px"/>&nbsp
-  <img src="images/office.png" alt="office icon" title="Microsoft Office" width="40px" height="40px"</img>
+  <img src="assets/ico/office.png" alt="office icon" title="Microsoft Office" width="40px" height="40px"</img>
 <h4>Programming Languages</h4>
 <p float="left">
   <img src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript icon" title="Javascript" width="40px" height="40px"/>&nbsp
@@ -47,7 +47,7 @@
 </p>
 <h4>Database</h4>
 <p float="left">
-  <img src="images/mssql.png" height="40px" width="40px" alt="mssql icon" title="Microsoft SQL Server"</img>
+  <img src="assets/ico/mssql.png" height="40px" width="40px" alt="mssql icon" title="Microsoft SQL Server"</img>
 </p>
 <h4>Version Control</h4>
 <p float="left">
