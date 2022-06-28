@@ -1,3 +1,7 @@
+<p align="left">
+<img width="70px" height="70px" src="steelesh-logo-black.png#gh-light-mode-only">
+<img width="70px" height="70px" src="steelesh-logo-white.png#gh-dark-mode-only">
+</p>
 <p align="center" float="left">
 <img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF">
 <img src="https://img.shields.io/github/last-commit/steelesh/steelesh?color=7D12FF&logoColor=555555">
