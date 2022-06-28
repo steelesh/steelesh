@@ -3,12 +3,6 @@
 <img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176281277-0dd202d1-4edd-4f60-8c54-51ccc226288d.png#gh-light-mode-only">
 <img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176281510-b75890c5-b30e-4806-b9aa-b1d0e85d95b5.png#gh-dark-mode-only">
 </p>
-<p align="center" float="left">
-<img src="https://img.shields.io/github/followers/steelesh?style=social">
-<img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF">
-<img src="https://img.shields.io/github/last-commit/steelesh/steelesh?color=7D12FF&logoColor=555555">
-<img src="https://img.shields.io/github/forks/steelesh/steelesh?style=social">
-</p>
 <img src="https://user-images.githubusercontent.com/94927484/176231439-b211eb6b-b483-474d-92b1-01ccd55d3865.gif">
 <h1 align="center">:wave:  Hi there, my name is<br>Steele</h1>
 <h3 align="center">:mortar_board: Undergraduate student pursuing a BS in IT at the University of Cincinnati</h3>  
@@ -62,3 +56,11 @@
 <h1>:chart_with_upwards_trend: GitHub Statistics</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=steelesh&count_private=true&show_icons=true&theme=dark&background=000000&border_color=7D12FF&icon_color=7D12FF&title_color=7D12FF">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steelesh&theme=dark&background=000000&border_color=7D12FF&icon_color=7D12FF&title_color=7D12FF" width="495px">
+<hr>
+<p align="center" float="left">
+<img src="https://img.shields.io/github/followers/steelesh?style=social">
+<img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF">
+<img src="https://img.shields.io/github/last-commit/steelesh/steelesh?color=7D12FF&logoColor=555555">
+<img src="https://img.shields.io/github/forks/steelesh/steelesh?style=social">
+</p>
+<hr>
