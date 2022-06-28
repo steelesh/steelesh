@@ -1,6 +1,7 @@
 <p align="left">
-<img width="70px" height="70px" src="steelesh-logo-black.png#gh-light-mode-only">
-<img width="70px" height="70px" src="steelesh-logo-white.png#gh-dark-mode-only">
+
+<img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176281277-0dd202d1-4edd-4f60-8c54-51ccc226288d.png#gh-light-mode-only">
+<img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176281510-b75890c5-b30e-4806-b9aa-b1d0e85d95b5.png#gh-dark-mode-only">
 </p>
 <p align="center" float="left">
 <img src="https://img.shields.io/github/followers/steelesh?style=social">
