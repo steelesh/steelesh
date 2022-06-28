@@ -1,3 +1,5 @@
+![banner_gif](https://user-images.githubusercontent.com/94927484/176135135-4facc99e-e89a-4c5d-998d-a200b8d925ad.gif)
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=steelesh&color=7D12FF"></p>
 <h5 align="center">:wave:  Hi there, my name is</h5>
 <h1 align="center">Steele</h1>
