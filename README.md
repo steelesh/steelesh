@@ -1,9 +1,11 @@
 <p align="left">
-
 <img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176281277-0dd202d1-4edd-4f60-8c54-51ccc226288d.png#gh-light-mode-only">
 <img width="70px" height="70px" src="https://user-images.githubusercontent.com/94927484/176281510-b75890c5-b30e-4806-b9aa-b1d0e85d95b5.png#gh-dark-mode-only">
 </p>
-<img src="/assets/banner/banner_gif-dark-mode.gif#gh-dark-mode-only"><img src="/assets/banner/banner_gif-light-mode.gif#gh-light-mode-only">
+<p>
+<img src="/assets/banner/banner_gif-dark-mode.gif#gh-dark-mode-only">
+<img src="/assets/banner/banner_gif-light-mode.gif#gh-light-mode-only">
+</p>
 <h1 align="center">:wave:  Hi there, my name is<br>Steele</h1>
 <h3 align="center">:mortar_board: Undergraduate student pursuing a BS in IT at the University of Cincinnati</h3>  
 <h1>:bulb: About Me</h1>
